@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+sherlock.txt
+sherlock_model.pt
+logs/*.log
